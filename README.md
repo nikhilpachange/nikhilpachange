@@ -27,6 +27,8 @@ I am a **passionate and motivated fresher software engineer** with a strong foun
 - 🛠 **Hands-on Experience**: Completed internships at **ASK Services** and **A to Z Info Tech**, enhancing my practical skills in frontend development and WordPress engineering.
 - 🌐 **Design Enthusiast**: Skilled in using **Figma** for UI/UX design, creating user-friendly interfaces.
 
+![Working on Laptop](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBscW94ZTlwY2xwM3pqOXJwbDNvOXNzMnlnNWc3NHVnb2k5aGE0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ---
 
 ## 🎓 Education
@@ -128,7 +130,6 @@ I am a **passionate and motivated fresher software engineer** with a strong foun
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpachange&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-
 ---
 
 ## ✨ Fun Facts
@@ -145,17 +146,6 @@ I am a **passionate and motivated fresher software engineer** with a strong foun
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="https://nikhilpachange.com" style="margin-right: 4px;">
-    <img src="https://img.shields.io/badge/Portfolio-Website-%2312100E.svg?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/nikhil-pachange-998093267/" style="margin-right: 4px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nikhil1pachange@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/nikhil-pachange-998093267/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:nikhil1pachange@gmail.com" target="_blank">Email</a>
 </p>
-
----
-
-<h3 align="center">Thank you for visiting my GitHub! 🌟</h3>
