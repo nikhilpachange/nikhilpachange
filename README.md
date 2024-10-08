@@ -118,6 +118,7 @@ I am a **passionate and motivated fresher software engineer** with a strong foun
 ---
 
 ## 📊 GitHub Stats & Activity
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilpachange&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -130,6 +131,7 @@ I am a **passionate and motivated fresher software engineer** with a strong foun
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpachange&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+
 ---
 
 ## ✨ Fun Facts
@@ -138,17 +140,11 @@ I am a **passionate and motivated fresher software engineer** with a strong foun
 - 🌱 Currently learning **Figma**, **advanced React**, and **practicing WordPress development**.
 - 💻 Experienced in **WordPress VIP**, with a passion for optimizing websites for performance and scalability.
 - 📚 Always curious and staying updated on new tech trends, currently diving into **Blockchain** and **SaaS technologies**.
-- 🎮 Enjoy **gaming** and participating in hackathons.
-- 💡 Love contributing to **open-source projects** and collaborating with the developer community.
+- 🎮 Enjoy **gaming** and participating in hackathons for skill enhancement.
 
 ---
 
-## 📫 Get in Touch
-
-<p align="center">
-  <b>Passionate Software Engineer | Full-Stack Developer | WordPress Specialist</b>
-</p>
-
+<p align="center">Let's connect and create something amazing together! 🤝</p>
 <p align="center">
   <a href="https://nikhilpachange.com" style="margin-right: 4px;">
     <img src="https://img.shields.io/badge/Portfolio-Website-%2312100E.svg?style=for-the-badge" alt="Portfolio" />
