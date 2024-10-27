@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nikhil Pachange!  👋</h1>
 
 <p align="center">
-  <b>Passionate Software Engineer | Full-Stack Developer | WordPress Specialist</b>
+  <b>Passionate Software Engineer | Full-Stack Developer |  WordPress Specialist</b>
 </p>
 
 <p align="center">
