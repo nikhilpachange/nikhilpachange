@@ -117,7 +117,7 @@ I am a **passionate and motivated fresher software engineer** with a strong foun
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊  GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilpachange&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
