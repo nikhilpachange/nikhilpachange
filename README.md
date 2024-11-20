@@ -31,7 +31,7 @@ I am a **passionate and motivated fresher software engineer** with a strong foun
 
 ---
 
-## 🎓 Education
+## 🎓Education
 
 - **Bachelor of Engineering in Information Technology**
   - CGPA: **8.33**
