@@ -107,29 +107,49 @@ I am a **passionate and motivated fresher software engineer** with a strong foun
 
 ## 🏆 Featured Projects
 
-### 🌟 **[E-Commerce Platform](https://github.com/nikhilpachange/ecommerce-platform)**
+### 🌟 **Real-Time Chat Application (MERN Stack)**
 
-- **Description**: A full-stack e-commerce web application with **React**, **Node.js**, and **MongoDB**.
-- **Features**:
-  - User authentication and authorization.
-  - Product management and shopping cart functionality.
-  - Integrated **Stripe** for secure payment processing.
+**Technologies Used:** MongoDB, Express.js, React.js, Node.js, Socket.io, JWT (JSON Web Tokens)
+**Project Description:**
+Developed a real-time chat application enabling instant communication between users. The application supports user authentication, real-time messaging, group chats, and the ability to send media files such as images. The backend uses Node.js and Express.js to handle requests, while Socket.io ensures real-time communication between users. MongoDB is used to store user data, chat messages, and chat room details.
 
-### 🌟 **[WordPress Custom Plugin](https://github.com/nikhilpachange/wordpress-custom-plugin)**
+**Key Features:**
+User Authentication: Implemented secure JWT-based authentication for user login and registration.
+Real-Time Messaging: Integrated Socket.io for instant, two-way communication between users in private and group chats.
+Chat Rooms: Allowed users to join/create private and group chat rooms for discussions.
+Media Sharing: Enabled users to send and receive images and other media files in real-time chats.
+Message Persistence: Messages are saved in MongoDB, enabling users to view chat history even after logging out.
+Responsive Design: Built with React.js for a seamless, mobile-friendly user interface.
+Deployment: Deployed the application on [insert hosting platform, e.g., Heroku, AWS].
 
-- **Description**: Developed a custom WordPress plugin to enhance site functionality.
-- **Features**:
-  - Custom widgets and shortcodes.
-  - Admin panel settings for easy customization.
-  - Optimized for performance and security.
 
-### 🌟 **[Blockchain Voting DApp](https://github.com/nikhilpachange/blockchain-voting-dapp)**
+### 🌟 **Student Management System Plugin (WordPress plugin)**
 
-- **Description**: A decentralized application using **Solidity** and **Web3.js**.
-- **Features**:
-  - Secure and transparent voting system.
-  - Smart contracts for vote tallying.
-  - Frontend interface with **React**.
+**Technologies Used:** WordPress, PHP, MySQL, HTML, CSS, JavaScript
+**Project Description:**
+Developed a Student Management System plugin for WordPress, allowing educational institutions to manage student data, track attendance, grades, and courses. The plugin features an intuitive admin dashboard for adding, editing, and viewing student details, as well as generating reports. Integrated MySQL for data storage and used PHP for plugin functionality.
+
+**Key Features:**
+Student Data Management: Add, update, and manage student profiles, courses, and grades.
+Attendance Tracking: Enable teachers/admins to track student attendance on a daily basis.
+Grade Management: Manage and update student grades for various subjects and courses.
+Report Generation: Generate detailed reports for student performance and attendance.
+Customizable Dashboard: Admin panel with an intuitive interface to manage students and courses efficiently.
+Responsive UI: Built with HTML, CSS, and JavaScript to ensure the plugin is user-friendly and mobile-responsive.
+Database Integration: Used MySQL to store student data and track interactions.
+
+### 🌟 **Poetry FOOD WordPress Theme**
+
+**Technologies Used:** WordPress, PHP, HTML, CSS, JavaScript
+**Project Description:**
+Developed a custom WordPress theme focused on presenting poetry and literary content in an engaging and visually appealing way. The theme was designed to be highly responsive, with features like easy navigation, text styling, and media integration to enhance the user experience for readers and poets.
+
+**Key Features:**
+Created a responsive, mobile-friendly theme for showcasing poetry.
+Designed custom layouts for poems, articles, and author pages.
+Integrated media features for image, video, and audio embedding.
+Implemented easy-to-use theme options for content management.
+Optimized for speed, SEO, and cross-browser compatibility.
 
 ---
 
