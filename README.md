@@ -28,9 +28,7 @@
 
 
 ---
-
-        
-          ## 🚀 About Me
+## 🚀 About Me
 
 I am a **passionate and motivated fresher software engineer** with a strong foundation in web development and a wide array of skills. I hold a **B.E. in Information Technology** from **Vithalrao Vikhe Patil College of Engineering, Ahmednagar**, with a **CGPA of 8.33**.
 
@@ -97,11 +95,15 @@ I am a **passionate and motivated fresher software engineer** with a strong foun
 </p>
 
 ### Other Skills
-- **Blockchain**: Solidity, Web3.js
-- **SaaS Development**
 - **Python**: Automation and scripting
 - **Design Tools**: Figma
 - **Version Control**: Git, GitHub
+
+### New learning and focus
+- **Blockchain**: Solidity, Web3.js
+- **SaaS Development**
+-  **DSA**
+-  **Advance Python and react**: Automation and scripting
 
 ---
 
