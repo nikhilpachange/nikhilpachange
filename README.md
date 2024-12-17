@@ -1,20 +1,31 @@
- <h1 align="center">Hi,  I'm Nikhil Pachange! 👋</h1>
+<h1 align="center">Hi, I'm Nikhil Pachange! 👋</h1>
 
 <p align="center">
   <b>Passionate Software Engineer | Full-Stack Developer | WordPress Specialist</b>
 </p>
 
 <p align="center">
-  <a href="https://nikhilpachange.com" target="_blank" style="margin-right: 4px;">
-    <img src="https://img.shields.io/badge/Portfolio-Website-%2312100E.svg?style=for-the-badge" alt="Portfolio" />
+  <!-- Portfolio Link -->
+  <a href="https://portfolio-7d60b.web.app" target="_blank" style="margin-right: 4px;">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge" alt="Portfolio" />
   </a>
+
+  <!-- LinkedIn Link -->
   <a href="https://www.linkedin.com/in/nikhil-pachange-998093267/" target="_blank" style="margin-right: 4px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nikhil1pachange@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <!-- Email Link -->
+  <a href="mailto:nikhil1pachange@gmail.com" target="_blank" style="margin-right: 4px;">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+  </a>
+
+  <!-- Blog Link -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
   </a>
 </p>
+
 
 ---
 
