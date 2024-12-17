@@ -140,7 +140,7 @@ Customizable Dashboard: Admin panel with an intuitive interface to manage studen
 Responsive UI: Built with HTML, CSS, and JavaScript to ensure the plugin is user-friendly and mobile-responsive.
 Database Integration: Used MySQL to store student data and track interactions.
 
-### 🌟 **Poetry FOOD WordPress Theme**
+### 🌟 **Poetry WordPress Theme**
 
 **Technologies Used:** WordPress, PHP, HTML, CSS, JavaScript
 **Project Description:**
