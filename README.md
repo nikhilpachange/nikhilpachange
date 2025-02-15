@@ -126,20 +126,22 @@ Responsive Design: Built with React.js for a seamless, mobile-friendly user inte
 Deployment: Deployed the application on [insert hosting platform, e.g., Heroku, AWS].
 
 
-### 🌟 **Student Management System Plugin (WordPress plugin)**
+### 🌟 **Headless WordPress E-commerce Platform**
+Technologies Used: WordPress (Headless CMS), React.js, Node.js, Express.js, WordPress REST API, MySQL, HTML, CSS, JavaScript
 
-**Technologies Used:** WordPress, PHP, MySQL, HTML, CSS, JavaScript
-**Project Description:**
-Developed a Student Management System plugin for WordPress, allowing educational institutions to manage student data, track attendance, grades, and courses. The plugin features an intuitive admin dashboard for adding, editing, and viewing student details, as well as generating reports. Integrated MySQL for data storage and used PHP for plugin functionality.
+Project Description: Developed a headless e-commerce platform using WordPress as a CMS and React.js for the frontend, ensuring a highly scalable and responsive shopping experience. Integrated REST APIs for seamless data exchange between the backend and frontend. Implemented secure authentication, optimized performance, and ensured a smooth checkout process.
 
-**Key Features:**
-Student Data Management: Add, update, and manage student profiles, courses, and grades.
-Attendance Tracking: Enable teachers/admins to track student attendance on a daily basis.
-Grade Management: Manage and update student grades for various subjects and courses.
-Report Generation: Generate detailed reports for student performance and attendance.
-Customizable Dashboard: Admin panel with an intuitive interface to manage students and courses efficiently.
-Responsive UI: Built with HTML, CSS, and JavaScript to ensure the plugin is user-friendly and mobile-responsive.
-Database Integration: Used MySQL to store student data and track interactions.
+Key Features:
+✅ Decoupled Architecture: Utilized WordPress as a headless CMS to manage product data and content dynamically.
+✅ Product Management: Enabled admins to add, edit, and manage product listings with images, descriptions, and pricing.
+✅ Secure User Authentication: Implemented login, registration, and role-based access using JWT authentication.
+✅ Cart & Checkout System: Developed a seamless shopping cart with real-time updates and secure checkout flow.
+✅ API Integration: Used the WordPress REST API for efficient data exchange between frontend and backend.
+✅ Performance Optimization: Implemented lazy loading and caching strategies for faster load times.
+✅ Payment Gateway Integration: Integrated third-party payment gateways for smooth and secure transactions.
+✅ Responsive UI: Designed a mobile-friendly, user-centric interface using React.js, ensuring a seamless user experience.
+
+
 
 ### 🌟 **Poetry WordPress Theme**
 
