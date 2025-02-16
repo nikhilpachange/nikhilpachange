@@ -34,7 +34,7 @@
 I am a **passionate and motivated fresher software engineer** with a strong foundation in web development and a wide array of skills. I hold a **B.E. in Information Technology** from **Vithalrao Vikhe Patil College of Engineering, Ahmednagar**, with a **CGPA of 8.33**.
 
 - 🌱 **Learning & Building**: Currently advancing my skills in **Figma**, **advanced React**, and **WordPress development**.
-- 👨‍💻 **Technical Expertise**: Proficient in **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, **Express**, **Node.js**, **WordPress**, **MongoDB**, **Bootstrap**, **Tailwind CSS**, **PHP**, **Python**, **Blockchain**, and **Figma**.
+- 👨‍💻 **Technical Expertise**: Proficient in **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, **Express**, **Node.js**, **WordPress**, **MongoDB**, **Bootstrap**, **Tailwind CSS**, **PHP** and **Figma**.
 - 🛠 **Hands-on Experience**: Completed internships at **ASK Services** and **A to Z Info Tech**, enhancing my practical skills in frontend development and WordPress engineering.
 - 🌐 **Design Enthusiast**: Skilled in using **Figma** for UI/UX design, creating user-friendly interfaces.
 
