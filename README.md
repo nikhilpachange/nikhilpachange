@@ -159,19 +159,7 @@ Optimized for speed, SEO, and cross-browser compatibility.
 ---
 
 
-## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilpachange&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilpachange&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpachange&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
