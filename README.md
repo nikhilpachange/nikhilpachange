@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:12100E&height=220&section=header&text=Nikhil%20Pachange&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Product%20Manager%20%7C%20B2B%20SaaS%20%7C%20AI-Powered%20Products&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1B1F3B,100:12100E&height=230&section=header&text=Nikhil%20Pachange&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Associate%20Product%20Manager%20%7C%20B2B%20SaaS%20%7C%20AI-Powered%20Products&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://portfolio-7d60b.web.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge" alt="Portfolio" />
@@ -18,8 +18,13 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=780&lines=Turning+customer+problems+into+shipped+product;Roadmaps+%7C+PRDs+%7C+Metrics+%7C+Cross-functional+leadership;Leading+a+12-member+team+across+2+AI-powered+SaaS+products;SQL+%2B+Power+BI+%2B+Mixpanel+%3D+decisions+backed+by+data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Turning+customer+problems+into+shipped+product;Roadmaps+%7C+PRDs+%7C+Metrics+%7C+Cross-functional+leadership;Owning+2+AI-powered+SaaS+products+end-to-end;SQL+%2B+Power+BI+%2B+Mixpanel+%3D+decisions+backed+by+data" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?color=0A66C2&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fnikhilpachange-readme%2Fvisits&style=flat-square&logo=github" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Open_to-Product_Roles-success?style=flat-square&logo=target" alt="Open to Product Roles" />
 
 </div>
 
@@ -27,7 +32,7 @@
 
 ## 🚀 About Me
 
-I'm an **Associate Product Manager** working in a **B2B SaaS environment**, currently leading a **12-member cross-functional team** across two internal products: an **AI-Powered IT Helpdesk Ticket Management System** and a **Smart Feedback & Customer Insights Platform**. I bring a blend of technical fluency and product judgment — I can read a data model, sketch a wireframe in Figma, write a PRD, and defend a roadmap decision with data, all in the same day.
+I'm an **Associate Product Manager** working in a **B2B SaaS environment**, currently driving product direction across two internal products: an **AI-Powered IT Helpdesk Ticket Management System** and a **Smart Feedback & Customer Insights Platform**. I bring a blend of technical fluency and product judgment — I can read a data model, sketch a wireframe in Figma, write a PRD, and defend a roadmap decision with data, all in the same day.
 
 - 🧭 **Product Focus**: Roadmap prioritization, PRD writing, stakeholder & engineering communication, user research, RCA frameworks, and metrics-driven iteration.
 - 📊 **Data & Analytics**: Comfortable in **SQL**, **Power BI**, and **Mixpanel** for funnel analysis, retention tracking, and product analytics.
@@ -44,8 +49,8 @@ I'm an **Associate Product Manager** working in a **B2B SaaS environment**, curr
 <sub><b>Building & shipping</b></sub>
 </td>
 <td width="50%" align="center">
-<img src="https://media.giphy.com/media/lIne8BCjMOpnxMWBnA/giphy.gif" width="100%"/>
-<sub><b>Product thinking & user feedback</b></sub>
+<img src="https://media.giphy.com/media/A9D5LweSbO1Uxq58br/giphy.gif" width="100%"/>
+<sub><b>Product collaboration & planning</b></sub>
 </td>
 </tr>
 </table>
@@ -64,7 +69,7 @@ I'm an **Associate Product Manager** working in a **B2B SaaS environment**, curr
 ## 💼 Experience
 
 ### **Associate Product Manager — Mentor Mind**
-`Jan 2024 – Present` · B2B SaaS · Leading a 12-member cross-functional team
+`Jan 2024 – Present` · B2B SaaS
 
 - Own product direction for an **AI-Powered IT Helpdesk Ticket Management System**, translating support-team pain points into prioritized roadmap items.
 - Drive a **Smart Feedback & Customer Insights Platform**, turning raw customer feedback into structured, actionable product signals.
@@ -88,8 +93,12 @@ This work forms the analytical and process-improvement foundation now applied to
 
 ## 🛠 Skills
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,figma,jira&theme=dark" />
+</div>
+
 ### Product Management
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Roadmapping-0A66C2.svg?style=for-the-badge" alt="Roadmapping" />
   <img src="https://img.shields.io/badge/PRD_Writing-0A66C2.svg?style=for-the-badge" alt="PRD Writing" />
   <img src="https://img.shields.io/badge/Stakeholder_Management-0A66C2.svg?style=for-the-badge" alt="Stakeholder Management" />
@@ -98,20 +107,20 @@ This work forms the analytical and process-improvement foundation now applied to
 </p>
 
 ### Data & Analytics
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Mixpanel-7856FF.svg?style=for-the-badge&logo=Mixpanel&logoColor=white" alt="Mixpanel" />
 </p>
 
 ### Design & Collaboration
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
 </p>
 
 ### Technical Foundation
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" />
@@ -119,7 +128,7 @@ This work forms the analytical and process-improvement foundation now applied to
 </p>
 
 ### Currently Building
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Product_Case_Studies-black.svg?style=flat-square" alt="Case Studies" />
   <img src="https://img.shields.io/badge/Guesstimates-black.svg?style=flat-square" alt="Guesstimates" />
   <img src="https://img.shields.io/badge/DSA_%26_SQL_Practice-black.svg?style=flat-square" alt="DSA & SQL" />
@@ -151,7 +160,7 @@ Lead product decisions for a platform that aggregates customer feedback from mul
 ✅ Designed the feedback-to-insight taxonomy used to categorize and prioritize incoming signals
 ✅ Collaborated with design in Figma on the insights dashboard UX
 ✅ Used Mixpanel and SQL to validate which insight categories actually correlated with churn risk
-✅ Coordinated a 12-member cross-functional team through discovery, build, and rollout
+✅ Coordinated cross-functional collaboration through discovery, build, and rollout
 ✅ Established feedback-loop reporting cadence for leadership visibility into customer sentiment trends
 
 ---
@@ -176,6 +185,6 @@ Lead product decisions for a platform that aggregates customer feedback from mul
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:0A66C2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,50:1B1F3B,100:0A66C2&height=140&section=footer" width="100%"/>
 
 </div>
