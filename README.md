@@ -1,28 +1,18 @@
 <h1 align="center">Hi, I'm Nikhil Pachange! 👋</h1>
 
 <p align="center">
-  <b>Associate Product Manager | B2B SaaS | AI-Powered Products | Data-Driven Decision Making</b>
+  <b>Associate Product Manager | SaaS & Digital Products | Product Strategy | Data-Driven Product Development</b>
 </p>
 
 <p align="center">
-  <!-- Portfolio Link -->
-  <a href="https://portfolio-7d60b.web.app" target="_blank" style="margin-right: 4px;">
+  <a href="https://portfolio-7d60b.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge" alt="Portfolio" />
   </a>
-
-  <!-- LinkedIn Link -->
-  <a href="https://www.linkedin.com/in/nikhil-pachange-998093267/" target="_blank" style="margin-right: 4px;">
+  <a href="https://www.linkedin.com/in/nikhil-pachange-998093267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <!-- Email Link -->
-  <a href="mailto:nikhil1pachange@gmail.com" target="_blank" style="margin-right: 4px;">
+  <a href="mailto:nikhil1pachange@gmail.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
-  </a>
-
-  <!-- Blog Link -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
   </a>
 </p>
 
@@ -30,131 +20,535 @@
 
 ## 🚀 About Me
 
-I'm an **Associate Product Manager** working in a **B2B SaaS environment**, currently leading a **12-member cross-functional team** across two internal products: an **AI-Powered IT Helpdesk Ticket Management System** and a **Smart Feedback & Customer Insights Platform**. I bring a blend of technical fluency and product judgment — I can read a data model, sketch a wireframe in Figma, write a PRD, and defend a roadmap decision with data, all in the same day.
+I am an **Associate Product Manager (APM)** with a strong technical foundation in **software development, SaaS products, data analysis, and digital platforms**.
 
-- 🧭 **Product Focus**: Roadmap prioritization, PRD writing, stakeholder & engineering communication, user research, RCA frameworks, and metrics-driven iteration.
-- 📊 **Data & Analytics**: Comfortable in **SQL**, **Power BI**, and **Mixpanel** for funnel analysis, retention tracking, and product analytics.
-- 🛠 **Technical Fluency**: Strong grounding in **React**, **Node.js**, **MongoDB**, and **SQL** — enough to speak engineering's language and scope work realistically.
-- 🎨 **Design Collaboration**: Skilled in **Figma** for wireframing and working closely with design on UX decisions.
-- 📋 **Process & Tools**: Daily driver of **Jira** for sprint planning, backlog grooming, and cross-functional delivery tracking.
-- 🌱 **Currently Deepening**: Product case studies, guesstimates, growth/PM strategy frameworks, DSA & SQL problem-solving, and corporate-level communication.
+I hold a **B.E. in Information Technology** from **Vithalrao Vikhe Patil College of Engineering, Ahmednagar**, with a **CGPA of 8.33**.
 
-![Working on Laptop](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBscW94ZTlwY2xwM3pqOXJwbDNvOXNzMnlnNWc3NHVnb2k5aGE0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+My technical background allows me to work effectively with **engineering, design, marketing, sales, and customer-facing teams** and translate business and customer problems into practical product solutions.
+
+I am particularly interested in building and improving **B2B SaaS, AI-powered, e-commerce, and digital products** using data-driven product management practices.
+
+### 💡 What I Work On
+
+* 📌 Product discovery and problem identification
+* 📝 PRD, BRD, user stories and acceptance criteria
+* 🗺️ Product roadmap and feature prioritization
+* 📊 Product analytics, KPIs and product performance
+* 👥 User research and customer feedback analysis
+* 🧪 A/B testing and experimentation
+* 🎯 Product strategy and OKR tracking
+* 🔄 Agile/Scrum product development
+* 🤝 Cross-functional collaboration
+* 🖥️ SaaS and digital product development
+* 🤖 AI/GenAI product opportunities
+* 📈 Growth, adoption and retention optimization
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor of Engineering (B.E.) in Information Technology**
-  - **Institution**: Savitribai Phule Pune University
-  - **Duration**: 2020 – 2024
+### Bachelor of Engineering — Information Technology
+
+**Vithalrao Vikhe Patil College of Engineering, Ahmednagar**
+
+* 🎓 B.E. in Information Technology
+* 📊 CGPA: **8.33**
+* 📅 Graduated: **2024**
 
 ---
 
-## 💼 Experience
+# 💼 Product Management Experience
 
-### **Associate Product Manager — Mentor Mind**
-- **Duration**: January 2024 – Present
-- **Environment**: B2B SaaS, leading a 12-member cross-functional team
-- **Responsibilities**:
-  - Own product direction for an **AI-Powered IT Helpdesk Ticket Management System**, translating support-team pain points into prioritized roadmap items.
-  - Drive a **Smart Feedback & Customer Insights Platform**, turning raw customer feedback into structured, actionable product signals.
-  - Write PRDs, run stakeholder alignment sessions, and coordinate delivery across engineering, design, and QA.
-  - Use **SQL**, **Power BI**, and **Mixpanel** to track adoption, retention, and funnel health, and to justify prioritization calls with data.
-  - Apply structured **RCA frameworks** to debug product and process issues before they become recurring escalations.
+## Associate Product Manager
 
-### **Prior Experience — Wipro** *(customer success, operations & product-adjacent work)*
-- Delivered measurable, quantified impact across support and process improvement initiatives:
-  - 📈 **18%** improvement in conversion
-  - 🔁 **12%** improvement in retention
-  - ⚙️ **60%** reduction in manual effort
-  - ⏱ **30%** reduction in resolution time
-- This work forms the analytical and process-improvement foundation now applied to product decisions.
+### Product & SaaS Responsibilities
+
+* Worked on product requirements by understanding **business objectives, customer problems and user needs**.
+* Converted business requirements into **product requirements, user stories and acceptance criteria**.
+* Collaborated with engineering and design teams throughout the product development lifecycle.
+* Assisted in defining **product roadmaps, feature priorities and release plans**.
+* Used frameworks such as **RICE and MoSCoW** for feature prioritization.
+* Monitored product performance using **KPIs, product analytics and customer feedback**.
+* Analyzed user behavior and product usage data to identify opportunities for improvement.
+* Worked with stakeholders to identify recurring customer problems and translate them into product improvements.
+* Supported **Agile/Scrum ceremonies**, sprint planning, backlog refinement and release coordination.
+* Collaborated with cross-functional teams including **Engineering, Design, Marketing, Sales and Customer Success**.
+* Conducted product research, competitor analysis and market analysis.
+* Contributed to improving **product adoption, retention, customer experience and operational efficiency**.
 
 ---
 
-## 🛠 Skills
+# 📊 Product Management Skills
 
-### Product Management
+### Product Strategy
+
+* Product Vision & Strategy
+* Product Roadmapping
+* Product Lifecycle Management
+* Product Discovery
+* Product-Market Fit
+* Feature Prioritization
+* Product Planning
+* Go-To-Market Strategy
+* Competitive Analysis
+* Market Research
+* TAM / SAM / SOM
+
+### Product Discovery
+
+* User Research
+* Customer Interviews
+* Customer Feedback Analysis
+* Problem Discovery
+* User Personas
+* User Journey Mapping
+* Jobs-to-be-Done
+* Pain Point Identification
+* Opportunity Identification
+* Design Thinking
+
+### Product Documentation
+
+* PRD — Product Requirements Document
+* BRD — Business Requirements Document
+* User Stories
+* Acceptance Criteria
+* Functional Requirements
+* Product Specifications
+* Feature Documentation
+* Product Requirement Mapping
+* Release Notes
+
+### Prioritization & Frameworks
+
+* RICE
+* MoSCoW
+* Kano Model
+* ICE
+* Impact vs Effort
+* AARRR
+* SWOT Analysis
+* TAM / SAM / SOM
+* OKRs
+* KPI Frameworks
+
+### Product Analytics
+
+* Product KPIs
+* DAU / WAU / MAU
+* Retention
+* Churn
+* Activation
+* Conversion Rate
+* Feature Adoption
+* Customer Lifetime Value
+* Customer Acquisition Cost
+* Funnel Analysis
+* Cohort Analysis
+* User Engagement
+* Product Usage Analysis
+
+### Experimentation & Growth
+
+* A/B Testing
+* Hypothesis Testing
+* Conversion Rate Optimization
+* Growth Experiments
+* Funnel Optimization
+* User Activation
+* Retention Strategies
+* Product-Led Growth
+* Growth Loops
+
+---
+
+# 🛠️ Product Management Tools
+
+### Product & Project Management
+
 <p>
-  <img src="https://img.shields.io/badge/Roadmapping-000000.svg?style=for-the-badge" alt="Roadmapping" />
-  <img src="https://img.shields.io/badge/PRD_Writing-000000.svg?style=for-the-badge" alt="PRD Writing" />
-  <img src="https://img.shields.io/badge/Stakeholder_Management-000000.svg?style=for-the-badge" alt="Stakeholder Management" />
-  <img src="https://img.shields.io/badge/User_Research-000000.svg?style=for-the-badge" alt="User Research" />
-  <img src="https://img.shields.io/badge/RCA_Frameworks-000000.svg?style=for-the-badge" alt="RCA" />
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Productboard-000000.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aha!-D32F2F.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
-### Data & Analytics
+### Analytics & Data
+
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Mixpanel-7856FF.svg?style=for-the-badge&logo=Mixpanel&logoColor=white" alt="Mixpanel" />
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mixpanel-7856FF.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amplitude-000000.svg?style=for-the-badge" />
 </p>
 
-### Design & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
-</p>
+### Design & Experimentation
 
-### Technical Foundation
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optimizely-0037FF.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VWO-000000.svg?style=for-the-badge" />
 </p>
-
-### Currently Building
-- **Product case studies & guesstimates** — market sizing, profitability, market entry, pricing strategy frameworks
-- **DSA & SQL problem-solving** — structured practice for technical fluency and analytical rigor
-- **Corporate-level communication** — consultant-grade written and spoken English for stakeholder and leadership contexts
 
 ---
 
-## 🏆 Featured Product Work
+# 💻 Technical Skills
 
-### 🌟 **AI-Powered IT Helpdesk Ticket Management System**
-**Context:** Internal B2B SaaS product at Mentor Mind
-**Product Description:**
-Own the product roadmap for an AI-assisted helpdesk platform that automates ticket triage, routing, and resolution tracking for internal IT support teams. Partnered with engineering and support stakeholders to define what "good" automation looks like without removing human judgment from complex cases.
+My software engineering background helps me communicate effectively with engineering teams and understand technical product constraints.
 
-**Key Contributions:**
-✅ Defined prioritization criteria for automation features based on ticket-volume and resolution-time data
-✅ Wrote PRDs and acceptance criteria for AI-assisted routing and suggested-resolution features
-✅ Ran cross-functional syncs across engineering, support ops, and QA to keep delivery on track
-✅ Used Power BI dashboards to monitor resolution time and escalation rates post-launch
-✅ Applied RCA frameworks to recurring ticket categories to inform the next roadmap cycle
+### Frontend
 
-### 🌟 **Smart Feedback & Customer Insights Platform**
-**Context:** Internal B2B SaaS product at Mentor Mind
-**Product Description:**
-Lead product decisions for a platform that aggregates customer feedback from multiple channels and converts it into structured, prioritized insights for product and support teams — closing the loop between "what customers say" and "what gets built."
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+</p>
 
-**Key Contributions:**
-✅ Designed the feedback-to-insight taxonomy used to categorize and prioritize incoming signals
-✅ Collaborated with design in Figma on the insights dashboard UX
-✅ Used Mixpanel and SQL to validate which insight categories actually correlated with churn risk
-✅ Coordinated a 12-member cross-functional team through discovery, build, and rollout
-✅ Established feedback-loop reporting cadence for leadership visibility into customer sentiment trends
+### Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+</p>
+
+### Programming & Development
+
+* JavaScript
+* Python
+* SQL
+* PHP
+* Node.js
+* React.js
+* Next.js
+* REST APIs
+* MongoDB
+* MySQL
+* Git & GitHub
+* Web Development
+* API Integration
+* SaaS Architecture
+* DSA
 
 ---
 
-## ✨ Fun Facts
+# 📈 Business & Growth Skills
 
-- 🧠 Went from a technical, hands-on engineering background into product ownership — still hands-on enough to read a schema or sanity-check a PR.
-- 📚 Deep in self-driven mastery mode: product case studies, SQL, DSA, and corporate communication, all stacked toward becoming a sharper strategic PM.
-- 🌾 Roots trace back to a farming family near Ahilyanagar (Ahmednagar), Maharashtra — grounding for a "get it done, no excuses" approach to work.
-- 🎮 Enjoys gaming and hackathons as a way to keep the builder instincts sharp alongside the product mindset.
+* Digital Marketing
+* Performance Marketing
+* SEO
+* SEM
+* E-commerce
+* Amazon & Flipkart Marketplace
+* Conversion Rate Optimization
+* Marketing Funnel Analysis
+* Customer Acquisition
+* Customer Retention
+* Growth Marketing
+* Product Growth
+* Revenue Optimization
+* Competitor Research
+* Pricing Analysis
+* Customer Segmentation
+* CRM & Lifecycle Marketing
 
 ---
 
-<p align="center">Let's connect and build something great together! 🤝</p>
+# 🤖 AI & Emerging Technology
+
+Currently exploring how emerging technologies can be applied to modern products.
+
+* AI Product Management
+* Generative AI
+* AI-Powered SaaS
+* AI Automation
+* Prompt Engineering
+* AI Product Discovery
+* AI-powered Customer Support
+* Blockchain
+* Solidity
+* Web3.js
+
+---
+
+# 🏆 Featured Product Projects
+
+## 🌟 AI-Powered IT Helpdesk Ticket Management System
+
+**Product Area:** B2B SaaS | AI | Customer Support
+
+Designed a product concept for an AI-powered IT helpdesk platform focused on improving ticket management, prioritization and resolution efficiency.
+
+### Product Responsibilities
+
+* Identified key pain points in traditional IT support workflows.
+* Defined user personas including **employees, support agents and administrators**.
+* Created product requirements and user stories.
+* Defined ticket lifecycle and workflow.
+* Identified opportunities for AI-based ticket classification and prioritization.
+* Designed KPI framework to measure product success.
+
+### Key KPIs
+
+* Average Resolution Time
+* First Response Time
+* Ticket Deflection Rate
+* Customer Satisfaction
+* Ticket Reopen Rate
+* Agent Productivity
+* AI Classification Accuracy
+
+---
+
+## 🌟 Smart Feedback & Customer Insights Platform
+
+**Product Area:** B2B SaaS | Customer Success | Product Analytics
+
+Designed a customer insights product focused on collecting, analyzing and converting customer feedback into actionable product improvements.
+
+### Key Features
+
+* Customer feedback collection
+* Feedback categorization
+* Sentiment analysis
+* Product usage analysis
+* Account health monitoring
+* Feature request tracking
+* Customer segmentation
+* Product feedback dashboard
+
+### Product Metrics
+
+* Product Adoption
+* Customer Retention
+* Churn Rate
+* Feature Usage
+* Customer Satisfaction
+* NPS
+* Engagement Rate
+
+---
+
+## 🌟 SignBridge — Communication Platform
+
+**Product Area:** Accessibility | Mobile/Web Application
+
+A communication-focused product concept designed to help bridge communication between **deaf and hearing users**.
+
+### Product Work
+
+* Conducted user research and collected **250 survey responses**.
+* Identified communication-related user pain points.
+* Defined target users and user personas.
+* Created product requirements.
+* Designed user flows and product wireframes.
+* Created UI/UX prototypes using Figma.
+* Defined core product features and MVP scope.
+* Identified potential product KPIs.
+
+### Product Process
+
+**Research → Problem Definition → User Personas → Ideation → MVP → Wireframes → Prototype → Validation**
+
+---
+
+## 🌟 Real-Time Chat Application
+
+**Product Area:** Communication | SaaS | Real-Time Applications
+
+Developed a real-time communication platform using the MERN stack.
+
+### Product Features
+
+* User authentication
+* Private messaging
+* Group chats
+* Real-time communication
+* Media sharing
+* Chat history
+* User profiles
+* Responsive interface
+
+### Technologies
+
+MongoDB, Express.js, React.js, Node.js, Socket.io and JWT.
+
+### Product Learning
+
+This project provided hands-on experience in understanding:
+
+* User authentication
+* Real-time product requirements
+* User workflows
+* API requirements
+* Product scalability
+* Technical feasibility
+* UX considerations
+
+---
+
+## 🌟 Headless WordPress E-commerce Platform
+
+**Product Area:** E-commerce | Digital Product
+
+Built a headless e-commerce platform using WordPress as the CMS and React.js as the frontend.
+
+### Product Features
+
+* Product management
+* User authentication
+* Shopping cart
+* Checkout
+* Payment integration
+* REST API integration
+* Responsive UI
+* Performance optimization
+* Content management
+
+### Product Metrics Considered
+
+* Conversion Rate
+* Cart Abandonment
+* Average Order Value
+* Product Views
+* Checkout Completion
+* Customer Retention
+
+---
+
+# 📊 Product Management Framework
+
+I follow a structured product development approach:
+
+```text
+              CUSTOMER PROBLEM
+                     ↓
+               USER RESEARCH
+                     ↓
+             PROBLEM VALIDATION
+                     ↓
+              PRODUCT STRATEGY
+                     ↓
+              DEFINE MVP SCOPE
+                     ↓
+            FEATURE PRIORITIZATION
+                     ↓
+             PRD + USER STORIES
+                     ↓
+             DESIGN & PROTOTYPE
+                     ↓
+             AGILE DEVELOPMENT
+                     ↓
+                  TESTING
+                     ↓
+                  LAUNCH
+                     ↓
+             PRODUCT ANALYTICS
+                     ↓
+              ITERATE & SCALE
+```
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Product Management
+* Product Strategy
+* AI Product Management
+* Product Analytics
+* SQL for Product Managers
+* Advanced React
+* Python & Automation
+* SaaS Product Development
+* System Design Fundamentals
+* Data Structures & Algorithms
+* Generative AI
+* Blockchain & Web3
+
+---
+
+# 🎯 Career Interests
+
+I am particularly interested in opportunities involving:
+
+* **Associate Product Manager**
+* **Product Manager**
+* **Technical Product Manager**
+* **SaaS Product Manager**
+* **AI Product Manager**
+* **Digital Product Manager**
+* **Growth Product Manager**
+* **E-commerce Product Manager**
+
+My long-term goal is to build products that solve meaningful customer problems while combining **technology, business, design and data**.
+
+---
+
+# 🏆 Strengths
+
+* 🧠 Product Thinking
+* 📊 Data-Driven Decision Making
+* 💻 Strong Technical Foundation
+* 🤝 Cross-Functional Collaboration
+* 🎯 Problem Solving
+* 📈 Growth Mindset
+* 📝 Product Documentation
+* 🔍 Analytical Thinking
+* 🎨 UI/UX Understanding
+* 🚀 Fast Learning
+* 🔄 Agile/Scrum Mindset
+
+---
+
+# 🌱 What I'm Currently Building
+
+I am continuously improving my skills through:
+
+* 🚀 Product case studies
+* 📊 Product analytics projects
+* 💻 Technical projects
+* 📝 PRDs and product documentation
+* 🎨 Figma prototypes
+* 🧠 LeetCode & DSA practice
+* 🤖 AI product experiments
+* 📚 Product management learning
+* 💼 Real-world business and growth problems
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <b>I'm always open to discussing Product Management, SaaS, AI, technology and interesting product ideas.</b>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-pachange-998093267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nikhil1pachange@gmail.com" target="_blank">
+  <a href="mailto:nikhil1pachange@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://portfolio-7d60b.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Let's build products that solve real problems. 🚀</b>
 </p>
