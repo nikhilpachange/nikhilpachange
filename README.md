@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1B1F3B,100:12100E&height=260&section=header&text=Nikhil%20Pachange&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Associate%20Product%20Manager%20%7C%20B2B%20SaaS%20%7C%20AI-Powered%20Products&descAlignY=52&descSize=18" width="100%"/>
 
 <p align="center">
